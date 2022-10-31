@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632502726 source:c:\users\yasmi\documents\ead\aed2\batalha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1632503391 source:c:\users\yasmi\onedrive\ufu\batalhanavalc\batalha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
